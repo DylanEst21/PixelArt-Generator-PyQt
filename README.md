@@ -34,9 +34,9 @@ Voici l’arborescence générale du projet :
 PixelArt-Generator-PyQt/
 ├── pixelart_generator.py     # Fichier principal (classe Fenetre(QMainWindow))
 ├── icons/                    # Icônes de la barre d’outils et des menus
-│   ├── stylo.png
-│   ├── gomme.png
-│   ├── filtre_rouge.png
+│   ├── reset_palette.png
+│   ├── sauvegarde.png
+│   ├── supprimer.png
 │   └── ...
 └── creations/                # Dossier où sont stockés les fichiers .txt
     ├── exemple1.txt
