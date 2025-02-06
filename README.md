@@ -136,15 +136,20 @@ L’interface se divise en deux grandes zones :
 **Barre de Menu** :  
 - Menu **Grille** :  
   - *Réinitialiser la grille* (Ctrl+D)
-  - *Réinitialiser la palette* (Ctrl+P)  
+  - *Réinitialiser la palette* (Ctrl+P)
+    
 - Menu **Filtre** :  
-  - Filtre rouge/vert/bleu/négatif/gris (Ctrl+R / Ctrl+V / Ctrl+B / Ctrl+N / Ctrl+G)  
+  - Filtre rouge/vert/bleu/négatif/gris (Ctrl+R / Ctrl+V / Ctrl+B / Ctrl+N / Ctrl+G)
+    
 - Menu **Effets** :  
-  - *Noir & Blanc* (Ctrl+E)  
+  - *Noir & Blanc* (Ctrl+E)
+    
 - Menu **Sauvegarder** :  
-  - Enregistrer la grille (Ctrl+S)  
+  - Enregistrer la grille (Ctrl+S)
+    
 - Menu **Supprimer** :  
-  - Effacer la création sélectionnée (Ctrl+X)  
+  - Effacer la création sélectionnée (Ctrl+X)
+    
 - Menu **Quitter** :  
   - Fermer l’application (Ctrl+Q)  
 
