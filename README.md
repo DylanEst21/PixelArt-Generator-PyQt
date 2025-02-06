@@ -1,4 +1,4 @@
-# PixelArt-Generator-PyQt
+# Générateur de PixelArt avec PyQt
 
 ## Table des Matières
 - [Description](#description)
