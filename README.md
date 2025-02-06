@@ -63,10 +63,13 @@ PixelArt-Generator-PyQt/
 
 1. **Stylo** 🖌️  
    - Colorie la case cliquée avec la couleur de la palette sélectionnée.
+     
 2. **Gomme** 🧽  
    - Efface la case cliquée en la remettant en blanc.
+     
 3. **Baguette** ✨  
    - Efface toutes les cases ayant la même couleur que celle sélectionnée.
+     
 4. **Pot** 🧺  
    - Remplit toutes les **cases blanches** avec la couleur actuelle.
 
